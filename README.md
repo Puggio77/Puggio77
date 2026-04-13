@@ -77,7 +77,7 @@ I'm a Full Stack Developer passionate about creating meaningful products, built 
 | [Lanii](https://github.com/Puggio77/Lani) | An iOS app to recognize and track your emotions | Swift |
 | [OnCommand](https://github.com/Puggio77/OnCommand) | A macOS app designed to help new macOS users master keyboard shortcuts through a gamified learning experience | Swift |
 | [Unilink](https://github.com/fpseverino/UniLinkApp) | A virtual campus by students, for students, connecting peers across disciplines to share knowledge, solve challenges, and build a supportive community | Swift, Docker |
-| [Arturo Sea Travel](https://github.com/Puggio77/Arturo-s-Sea-Travel) | An app | Java, SQL |
+| [Arturo Sea Travel](https://github.com/Puggio77/Arturo-s-Sea-Travel) | A full-stack travel application built with Java and SQL. Arturo Sea Travel lets users browse destinations, manage bookings, and plan trips through a clean and responsive interface backed by a robust relational database | Java, SQL |
 
 ---
 
