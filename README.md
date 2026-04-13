@@ -1,11 +1,10 @@
-# Hello, i'm Riccardo Puggioni
+# Hello, I'm Riccardo Puggioni
 
-I'm a Full Stack Developer pasionate about creating meaningful porducts, built with a strong backend and also with accesible and engaging interface. I enjoy exploring new programming lenguages and new technologies. I love teamwork because i belive that a product's pontential comes from different minds working together with a strong chemistry
+I'm a Full Stack Developer passionate about creating meaningful products, built with a strong backend and also with accessible and engaging interfaces. I enjoy exploring new programming languages and new technologies. I love teamwork because I believe that a product's potential comes from different minds working together with a strong chemistry.
 
 ---
 
 ## Tech Stack
-
 
 ### Programming Languages
 
@@ -18,56 +17,70 @@ I'm a Full Stack Developer pasionate about creating meaningful porducts, built w
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-###Frameworks & Runtimes
+### Frameworks & Runtimes
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-###Databases
+
+### Databases
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-###DevOps & Tools
+
+### DevOps & Tools
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-###Operating Systems & Shell
+
+### Operating Systems & Shell
+
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-###IDEs & Development Tools
+
+
+### IDEs & Development Tools
+
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-###Design & Collaboration
+
+### Design & Collaboration
+
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=FFD02F)
-!
-###Productivity & Writing
+
+
+### Productivity & Writing
+
 ![Keynote](https://img.shields.io/badge/Keynote-006AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-###AI & Other Skills
+
+
+### AI & Other Skills
+
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## Project in evidence
+## Projects in Evidence
 
-| Porject | Description | Tech |
+| Project | Description | Tech |
 |---|---|---|
-| [Lanii](https://github.com/Puggio77/Lani) | Un app per Ios per riconoscere e tracciare le proprie emozioni  | Swift |
-| [OnCommand](https://github.com/Puggio77/OnCommand) | A macOS app designed to help new macOs users master keyboard shortcuts through a gamified learning experience | Swift |
-| [Unilink](https://github.com/fpseverino/UniLinkApp) | UniLink is a virtual campus by students, for students, connecting peers across
-disciplines to share knowledge, solve challenges, and build a supportive community. | Swift, Docker |
-| [Arturo Sea Travel](https://github.com/Puggio77/Arturo-s-Sea-Travel) | An app to book ferrys carefully crafted following the principles of clean programming | Java, SQL |
-
+| [Lanii](https://github.com/Puggio77/Lani) | An iOS app to recognize and track your emotions | Swift |
+| [OnCommand](https://github.com/Puggio77/OnCommand) | A macOS app designed to help new macOS users master keyboard shortcuts through a gamified learning experience | Swift |
+| [Unilink](https://github.com/fpseverino/UniLinkApp) | A virtual campus by students, for students, connecting peers across disciplines to share knowledge, solve challenges, and build a supportive community | Swift, Docker |
+| [Arturo Sea Travel](https://github.com/Puggio77/Arturo-s-Sea-Travel) | An app | Java, SQL |
 
 ---
 
----
 ## Contacts
 
 <p align="left">
@@ -81,4 +94,3 @@ disciplines to share knowledge, solve challenges, and build a supportive communi
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Puggio77&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
-
