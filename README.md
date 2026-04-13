@@ -42,37 +42,14 @@ Sono un **Full Stack Developer** appassionato di costruire prodotti digitali cur
 
 ---
 
-## GitHub Stats
-
-<!-- Stat card + Top Languages affiancate -->
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Puggio77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puggio77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<!-- Repo pinned con Extra Pins (supera il limite di 6 di GitHub) -->
-<p align="center">
-  <a href="https://github.com/Puggio77/REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puggio77&repo=REPO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Puggio77/REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Puggio77&repo=REPO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## Progetti in evidenza
 
 | Progetto | Descrizione | Tech |
 |---|---|---|
-| [Progetto 1](https://github.com/Puggio77/Lani) | Breve descrizione del progetto | Kotlin, TypeScript |
-| [Progetto 2](https://github.com/Puggio77/OnCommand) | Breve descrizione del progetto | Swift, SQL |
-| [Progetto 3](https://github.com/fpseverino/UniLinkApp) | Breve descrizione del progetto | Java, MongoDB |
+| [Progetto 1](https://github.com/Puggio77/Lani) | Un app per Ios per riconoscere e tracciare le proprie emozioni  | Swift |
+| [Progetto 2](https://github.com/Puggio77/OnCommand) | Un App per MacOs utile ad imparare le shortcut native del Mac | Swift |
+| [Progetto 3](https://github.com/fpseverino/UniLinkApp) | Un app per Ios per gli universitari che vogliono condividere le proprie conoscenze | Swift, SQL, Ngrok, Vapor, Fluent |
+| [Progetto 3](https://github.com/Puggio77/Arturo-s-Sea-Travel) | Un app per la prenotazione dei traghetti| Java, SQL |
 
 ---
 
