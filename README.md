@@ -46,13 +46,12 @@ Sono un **Full Stack Developer** appassionato di costruire prodotti digitali cur
 
 | Progetto | Descrizione | Tech |
 |---|---|---|
-| [Progetto 1](https://github.com/Puggio77/Lani) | Un app per Ios per riconoscere e tracciare le proprie emozioni  | Swift |
-| [Progetto 2](https://github.com/Puggio77/OnCommand) | Un App per MacOs utile ad imparare le shortcut native del Mac | Swift |
-| [Progetto 3](https://github.com/fpseverino/UniLinkApp) | Un app per Ios per gli universitari che vogliono condividere le proprie conoscenze | Swift, SQL, Ngrok, Vapor, Fluent |
-| [Progetto 3](https://github.com/Puggio77/Arturo-s-Sea-Travel) | Un app per la prenotazione dei traghetti| Java, SQL |
+| [Lani](https://github.com/Puggio77/Lani) | Un app per Ios per riconoscere e tracciare le proprie emozioni  | Swift |
+| [OnCommand](https://github.com/Puggio77/OnCommand) | Un App per MacOs utile ad imparare le shortcut native del Mac | Swift |
+| [Unilink](https://github.com/fpseverino/UniLinkApp) | Un app per Ios per gli universitari che vogliono condividere le proprie conoscenze | Swift, SQL, Ngrok, Vapor, Fluent |
+| [Arturo Sea Travel](https://github.com/Puggio77/Arturo-s-Sea-Travel) | Un app per la prenotazione dei traghetti| Java, SQL |
 
 ---
-
 ## Contatti
 
 <p align="left">
