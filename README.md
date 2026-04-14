@@ -16,6 +16,7 @@ I'm a Full Stack Developer passionate about creating meaningful products, built 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Frameworks & Runtimes
 
@@ -78,6 +79,7 @@ I'm a Full Stack Developer passionate about creating meaningful products, built 
 | [OnCommand](https://github.com/Puggio77/OnCommand) | A macOS app designed to help new macOS users master keyboard shortcuts through a gamified learning experience | Swift |
 | [Unilink](https://github.com/fpseverino/UniLinkApp) | A virtual campus by students, for students, connecting peers across disciplines to share knowledge, solve challenges, and build a supportive community | Swift, Docker |
 | [Arturo Sea Travel](https://github.com/Puggio77/Arturo-s-Sea-Travel) | A full-stack travel application built with Java and SQL. Arturo Sea Travel lets users browse destinations, manage bookings, and plan trips through a clean and responsive interface backed by a robust relational database | Java, SQL |
+| [Homezy](https://github.com/Puggio77/Homezy) | An app that turns everyday household tasks into challenges, with goals, levels, and rewards | Swift, Core ML |
 
 ---
 
